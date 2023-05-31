@@ -8,6 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def main() :
+    st.title('안녕하세요1')
     st.title('K-Means 클러스터링 앱')
     st.title('안녕하세요')
     # 1. csv 파일을 업로드 할수 있다.
